@@ -36,6 +36,7 @@
 	"type": "module",
 	"dependencies": {
 		"@iconify-json/mdi": "^1.1.68",
+		"@sveltejs/adapter-static": "^3.0.4",
 		"daisyui": "^4.12.10"
 	}
 }
